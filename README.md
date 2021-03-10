@@ -1,6 +1,11 @@
-### My Profile
+### About-me
+どうも、こんにちは。Frango28です。マインクラフトで企画用のプラグインやミニゲームプラグインなどいろいろなものを作ってます。最近はテクスチャを併用してMODっぽいGUIを作ることにはまってます。
+よろしくね!
 
-<img src="https://grass-graph.moshimo.works/images/Frango28.png">
+
+## Link
+[Twitter](https://twitter.com/Frango28)
+
 <!--
 **Frango28/Frango28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
